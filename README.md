@@ -1,5 +1,5 @@
 - 👋 Hi, I am Shivam Kumar
-- 👀 I’m currently software Engineer at Media.net5
+- 👀 I’m currently software Engineer at Media.net
 - 🌱  I’m looking to collaborate on open source project
 - 📫 You can call me on 8095703416
 
